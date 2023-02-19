@@ -1,1 +1,8 @@
-git clone `https:/`: kéo code về local
+- Tạo 1 project trên github
+	1. Tạo 1 github repository (folder) - nơi chứa code
+	2. Clone project này: git clone link_your_repo
+	3. Viết code
+		git status (kiểm tra trạng thái files)
+		git add . (thêm files)
+		git commit -m "your_message" (tạo nội dung commit)
+		git push origin main
