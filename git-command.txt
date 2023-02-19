@@ -6,3 +6,12 @@
 		git add . (thêm files)
 		git commit -m "your_message" (tạo nội dung commit)
 		git push origin main
+- Tạo project local và đẩy lên github
+	1. Tạo 1 github repo
+	2. git init
+	3. Viết code
+		git status
+		git add .
+		git commit -m "your_message"
+		git remote add origin "http://..."
+		git push origin master
